@@ -18,11 +18,11 @@ social: true # includes social icons at the bottom of the page
 ---
 I am a fifth year Ph.D. student in the [Data to Actionable Knowledge (DtAK) lab](https://dtak.github.io/) at Harvard University, where I am advised by Finale Doshi-Velez.
 
-My research focuses on reinforcement learning (RL) and representation learning for decision-making. I explore how to create models that are not only predictive but also align with human decision-making criteria, such as interpretability and safety.
+My research focuses on reinforcement learning (RL) and representation learning for decision-making. I create models that are not only predictive but also align with human decision-making criteria, such as interpretability and safety.
 
-I have collaborated with hospitals and governments on applying machine learning to healthcare challenges. At my internship at Google, I worked on developing interpretable foundational models for waveform data. My PhD projects include creating interpretable and safe RL methods, as well as working on depression subtype discovery and disease progression modeling.
+I have collaborated with hospitals (Massachusetts General Hospital, Brigham and Women's Hospital) and the Singapore government (Temasek Laboratories) on applying machine learning to healthcare challenges. During my internship at Google, I worked on developing interpretable foundational models for waveform data. My PhD projects include creating interpretable and safe batch RL methods to improve clinician decisions. I have also applied my work to depression subtype discovery and disease progression modeling.
 
-Before Harvard, I earned my M.S. in Computer Science from the University of Massachusetts, Amherst, and my B.Tech. in Engineering from IIT Madras. With extensive experience in machine learning frameworks like PyTorch, TensorFlow, and JAX, I have applied these tools to solve problems in representation learning, RL, and uncertainty quantification.
+Before Harvard, I earned my M.S. in Computer Science from the University of Massachusetts, Amherst, and my B.Tech. in Engineering from IIT Madras.
 
 
 <!-- My research interests lie in probabilistic machine learning and decision-focused modeling, with a strong motivation from applications in healthcare. These interests allow me to take ideas from Optimization, Probabilistic Graphical Models, and Reinforcement Learning and apply them to important social problems.  -->
