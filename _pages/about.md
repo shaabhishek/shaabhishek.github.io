@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: ⚠️ I am looking for industry positions. Let's talk! ⚠️
 
 profile:
   align: right
@@ -16,9 +16,18 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I am a 2nd year Ph.D. student in the [Data to Actionable Knowledge (DtAK) lab](https://dtak.github.io/) at Harvard University, where I am advised by Finale Doshi-Velez. 
+I am a fifth year Ph.D. student in the [Data to Actionable Knowledge (DtAK) lab](https://dtak.github.io/) at Harvard University, where I am advised by Finale Doshi-Velez.
 
-My research interests lie in probabilistic machine learning and decision-focused modeling, with a strong motivation from applications in healthcare. These interests allow me to take ideas from Optimization, Probabilistic Graphical Models, and Reinforcement Learning and apply them to important social problems. Before coming to Harvard, I earned my M.S. in Computer Science from the University of Massachusetts, Amherst, and my B.Tech. in Engineering from IIT Madras.
+My research focuses on reinforcement learning (RL) and representation learning for decision-making. I explore how to create models that are not only predictive but also align with human decision-making criteria, such as interpretability and safety.
+
+I have collaborated with hospitals and governments on applying machine learning to healthcare challenges. At my internship at Google, I worked on developing interpretable foundational models for waveform data. My PhD projects include creating interpretable and safe RL methods, as well as working on depression subtype discovery and disease progression modeling.
+
+Before Harvard, I earned my M.S. in Computer Science from the University of Massachusetts, Amherst, and my B.Tech. in Engineering from IIT Madras. With extensive experience in machine learning frameworks like PyTorch, TensorFlow, and JAX, I have applied these tools to solve problems in representation learning, RL, and uncertainty quantification.
+
+
+<!-- My research interests lie in probabilistic machine learning and decision-focused modeling, with a strong motivation from applications in healthcare. These interests allow me to take ideas from Optimization, Probabilistic Graphical Models, and Reinforcement Learning and apply them to important social problems.  -->
+
+<!-- Before coming to Harvard, I earned my M.S. in Computer Science from the University of Massachusetts, Amherst, and my B.Tech. in Engineering from IIT Madras. -->
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
