@@ -16,18 +16,13 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I am a fifth year Ph.D. student in the [Data to Actionable Knowledge (DtAK) lab](https://dtak.github.io/) at Harvard University, where I am advised by Finale Doshi-Velez.
+I am a fifth year Ph.D. student in the [Data to Actionable Knowledge (DtAK) lab](https://dtak.github.io/) at Harvard University, where I am advised by [Finale Doshi-Velez](https://finale.seas.harvard.edu/).
 
 My research focuses on reinforcement learning (RL) and representation learning for decision-making. I create models that are not only predictive but also align with important properties, such as interpretability and safety.
 
 I have collaborated with hospitals (Massachusetts General Hospital, Brigham and Women's Hospital) and the Singapore government (Temasek Laboratories) on applying machine learning to healthcare challenges. During my internship at Google, I worked on developing interpretable foundational models for waveform data. My PhD projects include creating interpretable and safe batch RL methods to improve clinician decisions. I have also applied my work to depression subtype discovery and disease progression modeling.
 
-Before Harvard, I earned my M.S. in Computer Science from the University of Massachusetts, Amherst, and my B.Tech. in Engineering from IIT Madras.
-
-
-<!-- My research interests lie in probabilistic machine learning and decision-focused modeling, with a strong motivation from applications in healthcare. These interests allow me to take ideas from Optimization, Probabilistic Graphical Models, and Reinforcement Learning and apply them to important social problems.  -->
-
-<!-- Before coming to Harvard, I earned my M.S. in Computer Science from the University of Massachusetts, Amherst, and my B.Tech. in Engineering from IIT Madras. -->
+Before Harvard, I earned a M.S. in Computer Science from the University of Massachusetts, Amherst, where I worked with [Madalina Fiterau](https://people.cs.umass.edu/~mfiterau/) and [Philip Thomas](https://people.cs.umass.edu/~pthomas/). Even prior to that, I obtained a bachelor's and a master's degree in Materials Science and Engineering at IIT Madras, India, where I worked with [Nandan Sudarsanam](https://doms.iitm.ac.in/index.php/nandan-s).
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
