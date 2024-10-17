@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 ---
 I am a fifth year Ph.D. student in the [Data to Actionable Knowledge (DtAK) lab](https://dtak.github.io/) at Harvard University, where I am advised by Finale Doshi-Velez.
 
-My research focuses on reinforcement learning (RL) and representation learning for decision-making. I create models that are not only predictive but also align with human decision-making criteria, such as interpretability and safety.
+My research focuses on reinforcement learning (RL) and representation learning for decision-making. I create models that are not only predictive but also align with important properties, such as interpretability and safety.
 
 I have collaborated with hospitals (Massachusetts General Hospital, Brigham and Women's Hospital) and the Singapore government (Temasek Laboratories) on applying machine learning to healthcare challenges. During my internship at Google, I worked on developing interpretable foundational models for waveform data. My PhD projects include creating interpretable and safe batch RL methods to improve clinician decisions. I have also applied my work to depression subtype discovery and disease progression modeling.
 
