@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'll also be at [#NeurIPS](https://neurips.cc/)! Let's chat if you are around!
+I'll also be at [NeurIPS](https://neurips.cc/)! Let's chat if you are around!

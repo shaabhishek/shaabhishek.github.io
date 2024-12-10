@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-I’m joining the [@GoogleAI](https://twitter.com/GoogleAI) Genomics team as a Student Researcher. I’ll work on pushing the boundaries of Med-Gemini!
+I’m joining the [GoogleAI](https://twitter.com/GoogleAI) Genomics team as a Student Researcher. I’ll work on pushing the boundaries of Med-Gemini!
 
