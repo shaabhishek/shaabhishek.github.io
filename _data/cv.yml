@@ -30,6 +30,12 @@
   contents:
     - title: Student Researcher
       institution: Google Research
+      year: Dec 2024 – Present
+      description:
+        - Working on improving the Genomics capabilities of Med-Gemini, Google's LLM for healthcare.
+
+    - title: Student Researcher
+      institution: Google Research
       year: May 2024 – August 2024
       description:
         - Worked on foundation modeling efforts for waveform data in healthcare.
